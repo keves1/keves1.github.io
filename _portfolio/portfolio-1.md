@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Crop Type Segmentation with Multi-temporal Landsat Imagery"
+excerpt: "This project demonstrates the benefits of multi-temporal data for semantic segmentation of satellite imagery for crop type identification. 1<br/><img src='/images/results-comparison.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project demonstrates the benefits of multi-temporal data for semantic segmentation of satellite imagery for crop type identification. Because of the seasonal patterns present in crop growth, the use of time series can improve crop type classification results. In this project, I use the frozen pretrained encoder from the [Prithvi](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M) foundation model and train a segmentation head for this task using Landsat 9 imagery (6 bands) as inputs and the Cropland Data Layer (CDL) as labels. The time series are monthly composites from a region in the Sacramento Valley across the growing season (Feb-Sep) for the year 2022. The multi-temporal model achieves a 47% improvement in performance over mono-temporal.
+
+Sample results:
+
+![results comparision](/images/results-comparison.png)
+
+See the full results and code on [Github](https://github.com/keves1/crop-type-segmentation)
