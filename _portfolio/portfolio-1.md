@@ -1,6 +1,6 @@
 ---
-title: "Crop Type Segmentation with Multi-temporal Landsat Imagery"
-excerpt: "This project demonstrates the benefits of multi-temporal data for semantic segmentation of satellite imagery for crop type identification. 1<br/><img src='/images/results-comparison.png'>"
+title: "Crop type segmentation with multi-temporal imagery"
+excerpt: "This project demonstrates the benefits of multi-temporal data for semantic segmentation of satellite imagery for crop type identification. <br/><img src='/images/results-comparison.png'>"
 collection: portfolio
 ---
 

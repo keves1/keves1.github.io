@@ -1,6 +1,6 @@
 ---
-title: "Bikesharing map web app"
-excerpt: "A web app showing real-time bike availability. 1<br/><img src='/images/webapp.png'>"
+title: "Bikesharing web app"
+excerpt: "A web app showing real-time bike availability. <br/><img src='/images/webapp.png'>"
 collection: portfolio
 ---
 

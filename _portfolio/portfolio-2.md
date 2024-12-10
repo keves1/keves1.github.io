@@ -1,6 +1,6 @@
 ---
-title: "NDWI Change over time with Cloud-Native Geospatial Data"
-excerpt: "Cloud-native geospatial formats such as COG and Zarr allow data for specific times and regions to be easily selected from large collections. 1<br/><img src='/images/ndwi-change.png'>"
+title: "NDWI change with cloud-native geospatial data"
+excerpt: "Cloud-native geospatial formats such as COG and Zarr allow data for specific times and regions to be easily selected from large collections. <br/><img src='/images/ndwi-change.png'>"
 collection: portfolio
 ---
 
