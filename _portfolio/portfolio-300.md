@@ -1,6 +1,6 @@
 ---
 title: "Tree density mapping"
-excerpt: "A heatmap of the spatial density trees in Winnipeg, created in QGIS. <br/><img src='/images/trees_heatmap.png'>"
+excerpt: "A heatmap of the spatial density of trees in Winnipeg, created in QGIS. <br/><img src='/images/trees_heatmap.png'>"
 collection: portfolio
 ---
 
